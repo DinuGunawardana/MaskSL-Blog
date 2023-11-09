@@ -1,11 +1,3 @@
-# PHP Native Blog Project
-
-This project was built to master some PHP native coding skills.  
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-
 Instructions to follow :
 
 ```
@@ -28,7 +20,3 @@ The MySQL database server
 
 * [xampp](https://www.apachefriends.org/) - PHP development environment
 * [visualstudio](https://code.visualstudio.com/) - Code editor
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
